@@ -33,7 +33,7 @@ export default function Header() {
                         {/* <div className="img-wrapper">
                             <img src="https://www.ajansred.com/img/logo.png" className='img-fluid' alt="logo" />
                         </div> */}
-                        <h1>İZOLETTA</h1>
+                        <h1>Life Park</h1>
                     </div>
                 </div>
             </div>
