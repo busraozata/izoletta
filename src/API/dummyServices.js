@@ -59,7 +59,7 @@ const dummyServices = [
     text2:
       "Düğün Klibi hizmetimizde sinematik çekim yapabilen videograf arkadaşımız sabah hazırlıklarınızdan itibaren yanınızda oluyor ve organizasyon süreciniz dahil (ortalama 12 saat) kısa kısa videolar topluyor. Sonrasında topladığımız görüntülerden 1 dk teaser klip ve 4-6 dk'lık bir klip hazırlıyoruz. Düğün klibi servisimizde Fuji veya Sony video kameralar ve gymball ile çekim gerçekleştiriyoruz ve tamamıyla diğer kameralardan bağımsız bir servistir. Organizasyon günü sabah hazırlıklardan gece sonuna kadar klip çekimini gerçekleştirdikten sonra kurgu ekibimiz davetiniz sonrası isteğinize uygun teaser ve klibinizi hazırlayarak dijital ortamda size ulaştırıyoruz. Bu servisimiz ile klibinize evden çıkışınızla başlayıp, saç-makyaj hazırlığınız, bride partiniz ve organizasyondaki tüm özel anlarınıza ait klip çekimi gerçekleştirebiliyoruz. Kliplerimizi izleyerek daha detaylı bilgi sahibi olabilir veya youtube kanalımızdan farklı alternatifleri inceleyebilirsiniz.",
     image: "/image/ecem-berkin.jpg",
-    video: "https://www.youtube.com/watch?v=oYf8sEW9io",
+    video: "https://www.youtube.com/watch?v=oYf8sEW9ioI",
     subStances: [
       {
         item: "Gün boyu sinematik klip çekimi",
