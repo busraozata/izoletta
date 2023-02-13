@@ -4,7 +4,7 @@ const dummyServices = [
     title: "Jimmy Jib Kamera",
     /*  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dol", */
     text2:
-      "Jimmy Jib hizmeti, İstanbul Yelken Klübü’nde gerçekleşen organizasyonların çoğunda kullandığımız bir ekstra servisimizdir. Aktüel Kamera çekiminin tek açı olması ve genellikle gelin damat odaklı çalışmasından dolayı 2. kamera olarak kullandığımız Jimmy Jib kamera çekimi ile organizasyonunuzu daha geniş açıdan görüntüler alarak farklılaştırıyoruz. Jimmy Jib eklediğinizde 2 kamera ile davetinizin tamamını hem detay hem geniş açı ile birbirini tamamlayan açılardan tüm organizasyon montajınızı 2 kamera ile birlikte harmanlayarak tamamlıyoruz.Örnek Jimmy çekimimizi inceleyerek açılar ve davetinize katacağı zenginliği daha net keşfedebilirsiniz.",
+      "Jimmy Jib hizmeti, İzoletta mekanında gerçekleşen organizasyonların çoğunda kullandığımız bir ekstra servisimizdir. Aktüel Kamera çekiminin tek açı olması ve genellikle gelin damat odaklı çalışmasından dolayı 2. kamera olarak kullandığımız Jimmy Jib kamera çekimi ile organizasyonunuzu daha geniş açıdan görüntüler alarak farklılaştırıyoruz. Jimmy Jib eklediğinizde 2 kamera ile davetinizin tamamını hem detay hem geniş açı ile birbirini tamamlayan açılardan tüm organizasyon montajınızı 2 kamera ile birlikte harmanlayarak tamamlıyoruz.Örnek Jimmy çekimimizi inceleyerek açılar ve davetinize katacağı zenginliği daha net keşfedebilirsiniz.",
     image: "/image/jimmy.jpg",
     video: "https://www.youtube.com/watch?v=o0ulW1PKlaI",
   },
