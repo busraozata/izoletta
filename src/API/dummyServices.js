@@ -22,7 +22,7 @@ const dummyServices = [
         item: "Hazırlıklardan Gece Sonuna kadar hikaye fotoğraf çekimi (ortalama 12 saat)",
       },
       {
-        item: "50 Fotoğraflı Premium Albüm",
+        item: "60 Fotoğraflı Premium Albüm",
       },
       {
         item: "2 Adet Mini Albüm",
