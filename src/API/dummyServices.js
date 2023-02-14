@@ -107,7 +107,7 @@ const dummyServices = [
     text2:
       "Bu servisimizde dilerseniz evden çıkış anlarınızdan veya davet alanınızdan itibaren başlayarak profesyonel drone operatörü ile organizasyonunuzun tüm özel anları için drone çekimi gerçekleştiriyoruz. Organizasyonunuzun tüm özel anlarında uçuş gerçekleştiriyoruz ve topladığımız drone görüntülerini tüm video servislerinizde kullanarak daha zengin video içerikler olarak size teslim ediyoruz. Drone görüntülerini aktüel kameranız ile hazırlanan montajınıza dahil etmenin yanısıra özellikle Düğün Klibi hizmetini satın almanız durumunda bu servisinize de dahil edebiliyoruz. Özellikle Düğün Klibi olan müşterilerimizin çoğunlukla tercih ettiği bu hizmetimizde ekstra olarak sadece drone görüntülerinden oluşan bir klip (2-3dk) hazırlıyoruz.",
     image: "/image/drone.jpg",
-    video: "https://www.youtube.com/watch?v=I6zvV6dMSvc",
+    video: "https://www.youtube.com/watch?v=GlDqxsN-U48",
   },
   {
     id: 5,
